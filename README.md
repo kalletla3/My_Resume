@@ -7,4 +7,4 @@ Below are the following files required
 3. .py file
 4. requirements.txt
 5. Procfile
-6.runtime.txt
+6. runtime.txt
